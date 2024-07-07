@@ -1,0 +1,19 @@
+:root{
+    --bg-dark-clr:#272B30;
+    --clr-white: white;
+    --details-bg-clr:#27282B;
+}
+
+
+body {
+    font-family: "Comfortaa", cursive;
+    background-color: var(--bg-dark-clr);
+ }
+ 
+h1,h2,h3,h4,h5,h6{
+    font-family: "Nerko One", cursive;
+    color:var(--clr-white) ;
+}
+img{
+    vertical-align: middle;
+}
